@@ -1,4 +1,4 @@
-
+# We are the best!
 describe Array do
 
 	it 'should know its size' do
